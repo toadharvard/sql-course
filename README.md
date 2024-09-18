@@ -7,4 +7,4 @@ Execute `make` in your terminal to create a new database from [init.sql](./init.
 
 ## ERDs
 
-![ERD](1_erd.png)
+![ERD](2_erd_generated.png)
